@@ -1,2 +1,2 @@
 hello world
-git training 1
+git training 2
